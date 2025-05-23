@@ -1,0 +1,9 @@
+# Core OKX SDK - Please verify the exact package name on PyPI
+okx-python-sdk-api
+
+# Data handling and numerical operations
+pandas
+numpy
+
+# For loading environment variables from .env file
+python-dotenv
