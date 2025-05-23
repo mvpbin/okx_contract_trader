@@ -1,5 +1,5 @@
-# Core OKX SDK - Please verify the exact package name on PyPI
-okx-python-sdk-api
+# Core OKX SDK
+python-okx
 
 # Data handling and numerical operations
 pandas
